@@ -3,7 +3,7 @@
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
+      "name": "电影天堂",
       "detail": "http://caiji.dyttzyapi.com"
     },
     "heimuer": {
@@ -79,7 +79,7 @@
     },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源站"
+      "name": "量子资源"
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
